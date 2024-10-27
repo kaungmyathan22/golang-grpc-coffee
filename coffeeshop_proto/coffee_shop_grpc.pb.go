@@ -4,7 +4,7 @@
 // - protoc             v4.25.2
 // source: coffee_shop.proto
 
-package golang_coffee_grpc
+package coffee_proto
 
 import (
 	context "context"
